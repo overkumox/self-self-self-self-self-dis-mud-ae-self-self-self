@@ -1,9 +1,9 @@
-token = ""
-channel_id = 1084755642062999562
-slash_roll_channel = 1084761980683960361
+token = "MTAyMDEwMzc3NDI2MzU4Mjc1MA.GQqd0B.dvw8ksnQ-L9j2sNg7kJBXhG-9CeGvbLAJ2VHxQ"
+channel_id = 1057495288811618424
+slash_roll_channel = 1108445754512642068
 wish_channel = 1094682051720007854
 wr_channel = 1094682075359088730
-owner_id = 757622620349923469
+owner_id = 578790686757879830
 mudae_id = 432610292342587392
 prefix = "$"
 roll_type = "wa"
