@@ -1,0 +1,61 @@
+token = ""
+channel_id = 1084755642062999562
+slash_roll_channel = 1084761980683960361
+wish_channel = 1094682051720007854
+wr_channel = 1094682075359088730
+owner_id = 757622620349923469
+mudae_id = 432610292342587392
+prefix = "$"
+roll_type = "wa"
+max_k = [
+    "$bronze 2",
+    "$silver 2",
+    "$gold 2",
+    "$ruby 4",
+    "$gold 4",
+    "$Sapphire 4",
+    "$Emerald 4",
+    "$silver  4",
+    "$bronze 4",
+    "$diamond 4",
+]
+
+[sl]
+Soulmate_message = [
+    "SOULMATE",
+    "¡Es ahora tu **ALMA GEMELA**!",
+    "chaoskey",
+]
+no_rolls_left = [
+    "the roulette is limited to",
+    "la ruleta está limitada a",
+    "A kakera command is being processed",
+]
+
+[kl]
+no_kakera = [
+    "You need an additional",
+    "Te faltan",
+]
+givescrap_confirmation = "do you really want to give"
+givescrap_error = [
+    "Command RESTRICTED to the following roles",
+    "Command restricted to admins",
+    "This server doesn't have kakera scraps!",
+    "Prerequisites: Sapphire",
+]
+kl_confirmation = [
+    "Do you want to spend",
+    "¿Quieres gastar",
+    "A command is already awaiting an answer!",
+]
+too_many_pins = [
+    "you have too many pins",
+    "Tienes muchas insignias",
+]
+no_pins = [
+    "No mudapins found!",
+    "No pins were released!",
+    "¡Ningún pin ha sido liberado!",
+    "¡Ningún pin ha sido liberado!",
+]
